@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="YXtE1R8010KF3FIu3b_JpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAA4SURBVDhPY0i32n4AiP+TifeDDMAmQTQeZAbAADIbG0DWQ10DyMGjXhh0XiAHU8WA/eiCxOPtuwEl0a7qam5sogAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" Title="Exercício DEV - UIPATH" Url="https://docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform">
+      <imageRef attrName="InformativeScreenshot" originalValue="c7111070b77012843abb4e326286f07d.jpg" xmlns="">0u-Dp1XC520mD9KT6LwHl8Q</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

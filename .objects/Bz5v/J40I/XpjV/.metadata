@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Exercício DEV - UIPATH",
+  "Type": "Screen",
+  "Id": "XpjV5GT2zkK6W0a8acZSTg",
+  "Reference": "nr6L1QMhq0-nwwem7DlBXw/XpjV5GT2zkK6W0a8acZSTg",
+  "ParentRef": "nr6L1QMhq0-nwwem7DlBXw/J40IlWijZEa3NCwRk9b5zg",
+  "Created": "2024-09-04T23:27:26.3199484Z",
+  "Updated": "2024-09-04T23:27:26.3199484Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

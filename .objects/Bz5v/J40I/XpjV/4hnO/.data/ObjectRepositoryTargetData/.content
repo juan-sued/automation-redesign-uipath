@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V3vX3UT97EefNEY6Vq2Mfg" Reference="nr6L1QMhq0-nwwem7DlBXw/4hnO081lTE2kWTGw4UnLsA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform?pli=1" CVScreenId="ad44bf53-b6e3-4be9-b6fc-44cd41521b09" CvElementArea="111, 638, 300, 33" CvType="InputBox" DesignTimeRectangle="115, 630, 295, 40" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' class='aCsJod oJeWuf' tag='DIV' aaname='' /&gt;" Guid="fc4488cb-f388-4618-aeaf-17b2dff6ccc6" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ad44bf53-b6e3-4be9-b6fc-44cd41521b09" CvTextArea="114, 593, 16, 15" CvTextArgument="ID" CvType="Text" DesignTimeRectangle="115, 590, 15, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='i1' tag='SPAN' type='' class='M7eMe' aaname='ID' check:innerText='ID' /&gt;" Guid="a1f5f4f7-6cee-4af8-837a-c042adcc1e39" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="192dc71e36f74ec4c29a97539434c1a7.png" xmlns="">0-OuRiS4Jg0GDnVcx45Kw5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
